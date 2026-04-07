@@ -42,22 +42,22 @@ The design focuses on achieving **accurate analog output, monotonic behavior, an
 ## 📊 Results
 
 ### 🔹 Schematic
-![Schematic](schematics/dac_schematic.png)
+![Schematic](DAC_Schematic.png)
 
 ---
 
 ### 🔹 Output Waveform
-![Output](simulations/transient_output.png)
+![Output](transient.png)
 
 ---
 
 ### 🔹 Power Analysis
-![Power](simulations/power_analysis.png)
+![Power](power_analysis.png)
 
 ---
 
 ## 📘 Project Report
-📄 [Click here to view detailed report](docs/dac_report.pdf)
+📄 [Click here to view detailed report](DAC_PROJECT_REPORT.pdf)
 
 ---
 
